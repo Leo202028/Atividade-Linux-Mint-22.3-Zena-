@@ -8,5 +8,5 @@ Ao iniciar o computador a partir do pendrive (ou DVD), o Linux Mint inicia um pr
 
 
 
-
+![sla](https://linuxmint-installation-guide.readthedocs.io/en/latest/_images/cinnamon.png)
 
