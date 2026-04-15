@@ -10,3 +10,4 @@ Ao iniciar o computador a partir do pendrive (ou DVD), o Linux Mint inicia um pr
 
 ![sla](https://linuxmint-installation-guide.readthedocs.io/en/latest/_images/cinnamon.png)
 
+<img width="798" height="383" alt="Captura de tela 2026-04-15 095058" src="https://github.com/user-attachments/assets/43c0de68-f27d-45a6-a2bb-7e436e98230a" />
